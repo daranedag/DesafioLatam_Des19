@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "titulo": "Clocks",
+    "artista": "Coldplay",
+    "tono": "E"
+  },
+  {
+    "id": 3,
+    "titulo": "Sangria",
+    "artista": "Trueno y Woz",
+    "tono": "D"
+  }
+]
